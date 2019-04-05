@@ -1,6 +1,4 @@
-# Route64
-
-# Violent Storms
+# Route64 - Violent Storms
 
 Violent Storms is a web application similar to craigslist for members of Hampton University.
 NOTE: This project is in the Beta phase and as of right now, it's still in its testing phase.
